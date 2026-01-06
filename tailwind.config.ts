@@ -1,4 +1,4 @@
-import type { Config } from "next";
+import type { Config } from "tailwindcss"; // ←ここを "next" から "tailwindcss" に修正
 
 const config: Config = {
   content: [
